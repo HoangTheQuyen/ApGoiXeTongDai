@@ -1,0 +1,14 @@
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\bin\Debug\netcoreapp2.1\AppDatXe.deps.json
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\bin\Debug\netcoreapp2.1\AppDatXe.runtimeconfig.json
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\bin\Debug\netcoreapp2.1\AppDatXe.runtimeconfig.dev.json
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\bin\Debug\netcoreapp2.1\AppDatXe.dll
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\bin\Debug\netcoreapp2.1\AppDatXe.pdb
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.csproj.CoreCompileInputs.cache
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.RazorAssemblyInfo.cache
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.RazorAssemblyInfo.cs
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.AssemblyInfoInputs.cache
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.AssemblyInfo.cs
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.RazorTargetAssemblyInfo.cache
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.dll
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.pdb
+C:\IT\AppGoiXe\ApGoiXeTongDai\BackEnd\AppDatXe\AppDatXe\obj\Debug\netcoreapp2.1\AppDatXe.csprojAssemblyReference.cache

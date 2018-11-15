@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDatXe", "AppDatXe\AppDatXe.csproj", "{F62E64EA-C8B8-4B33-914D-2C776450C26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62E64EA-C8B8-4B33-914D-2C776450C26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62E64EA-C8B8-4B33-914D-2C776450C26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62E64EA-C8B8-4B33-914D-2C776450C26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62E64EA-C8B8-4B33-914D-2C776450C26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0213A2-69E6-489F-9CDE-7F485EC86A4D}
+	EndGlobalSection
+EndGlobal
